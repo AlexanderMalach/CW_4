@@ -15,9 +15,14 @@ def user_interface():
     user_input = input('Введите поисковой запрос: ')
     get_json = GetApiHH(user_input).get_vacancy()
     sort_list = sorted(get_json, reverse=True)
-    user_input = int(input('Введите количество вакансий которое хотите увидеть: '))
-    for i in range(user_input):
-        print(f"{sort_list[i]}")
+    user_input_vacancy = input('Введите количество вакансий которое хотите увидеть: ')
+    if isinstance(user_input_vacancy, int):
+        for i in range(user_input_vacancy):
+            print(f"{sort_list[i]}")
+    else:
+        user_input_vacancy = 5
+        for i in range(user_input_vacancy):
+            print(f"{sort_list[i]}")
 
     input_save = input('Хотите сохранить файл? Строго введите "да" или "нет"!: ')
     match input_save:

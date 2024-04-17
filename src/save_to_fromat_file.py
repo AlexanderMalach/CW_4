@@ -52,7 +52,10 @@ class SaveToFormatFile(AbstractVacancy):
 
     def del_vacancy_from_file(self):
         """
-        Удаляет содержимое JSON файла.
+        Удаляет содержимое файла.
         """
         with open(self.filename, "w", encoding="utf8") as file:
-            pass
+            file.seek(0)  # Переходим в начало файла
+            file.truncate()  # Очищаем содержимое файла
+
+
