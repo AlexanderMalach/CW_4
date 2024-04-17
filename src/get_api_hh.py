@@ -24,7 +24,11 @@ class GetApiHH(HHAbstract):
         """
         param_get = {"text": self.text, "per_page": 100, "area": 1, "order_by": "relevance", "only_with_salary": True}
         response = requests.get(url=self.url, params=param_get)
-        return self.convert_to_vacancy(response.json())
+        if response.status_code == 200:
+            return self.convert_to_vacancy(response.json())
+        else:
+            print(f"Ошибка при запросе к API HeadHunter: {response.status_code}")
+            return []
 
     def convert_to_vacancy(self, data) -> list[EditingVacancies]:
         """
