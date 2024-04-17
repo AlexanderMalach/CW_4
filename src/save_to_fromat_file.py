@@ -55,7 +55,5 @@ class SaveToFormatFile(AbstractVacancy):
         Удаляет содержимое файла.
         """
         with open(self.filename, "w", encoding="utf8") as file:
-            file.seek(0)  # Переходим в начало файла
-            file.truncate()  # Очищаем содержимое файла
-
-
+            file.seek(0)
+            file.truncate()
