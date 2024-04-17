@@ -1,13 +1,17 @@
 from src.get_api_hh import GetApiHH
 from src.save_to_fromat_file import SaveToFormatFile
 
-
 def user_interface():
     """
-    Юзер
-    :return: данные
-    """
+    Функция предоставляет интерфейс для взаимодействия пользователя с программой поиска и сохранения вакансий.
 
+    Пользователю предлагается ввести поисковой запрос, после чего программа получает вакансии с сайта HeadHunter
+    соответствующие запросу. Затем пользователю предлагается выбрать количество вакансий, которое он хочет увидеть,
+    после чего программа выводит выбранные вакансии. Пользователю также предлагается сохранить полученные вакансии
+    в файл, очистить файл или открыть его для просмотра.
+
+    :return: Нет возвращаемых значений.
+    """
     user_input = input('Введите поисковой запрос: ')
     get_json = GetApiHH(user_input).get_vacancy()
     sort_list = sorted(get_json, reverse=True)
@@ -46,6 +50,7 @@ def user_interface():
 
 
 result = user_interface()
+
 
 # read = SaveToFormatFile().find_operations_json("my_vacancy.json")
 # print(read)
