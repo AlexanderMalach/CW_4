@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "cw-4"
+version = "0.1.0"
+description = "project for receiving data from the head hunter API website"
+authors = ["79096 <a.malakhinsky@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+requests = "^2.31.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
