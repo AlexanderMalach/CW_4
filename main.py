@@ -1,21 +1,24 @@
 from src.get_api_hh import GetApiHH
 from src.save_to_fromat_file import SaveToFormatFile
 
+
 def user_interface():
     """
     Функция предоставляет интерфейс для взаимодействия пользователя с программой поиска и сохранения вакансий.
 
     Пользователю предлагается ввести поисковой запрос, после чего программа получает вакансии с сайта HeadHunter
-    соответствующие запросу. Затем пользователю предлагается выбрать количество вакансий, которое он хочет увидеть,
-    после чего программа выводит выбранные вакансии. Пользователю также предлагается сохранить полученные вакансии
-    в файл, очистить файл или открыть его для просмотра.
+    соответствующие.
+    Затем пользователю предлагается выбрать количество вакансий, которое он хочет увидеть,
+    после чего программа их выводит.
+    Пользователю также предлагается сохранить полученные вакансии
+    в файл, очистить или открыть его для просмотра.
 
     :return: Нет возвращаемых значений.
     """
     user_input = input('Введите поисковой запрос: ')
     get_json = GetApiHH(user_input).get_vacancy()
     sort_list = sorted(get_json, reverse=True)
-    user_input_vacancy = input('Введите количество вакансий которое хотите увидеть: ')
+    user_input_vacancy = int(input('Введите количество вакансий которое хотите увидеть: '))
     if isinstance(user_input_vacancy, int):
         for i in range(user_input_vacancy):
             print(f"{sort_list[i]}")
@@ -46,16 +49,19 @@ def user_interface():
     input_read = input('Хотите открыть файл? Строго введите "да" или "нет"!: ')
     match input_read:
         case 'да':
-            SaveToFormatFile(sort_list).read_vacancy_from_file()
             print(f'Файл открыт')
+            user_input_vacancy = int(input('Введите количество вакансий которое хотите увидеть: '))
+            if isinstance(user_input_vacancy, int):
+                for i in range(user_input_vacancy):
+                    print(f"{SaveToFormatFile(sort_list).read_vacancy_from_file()[i]}")
+            else:
+                user_input_vacancy = 5
+                for i in range(user_input_vacancy):
+                    print(f"{sort_list[i]}")
         case 'нет':
             print(f'Ну и ладно')
         case _:
             print(f"Зачем вы это ввели?")
 
 
-result = user_interface()
-
-
-# read = SaveToFormatFile().find_operations_json("my_vacancy.json")
-# print(read)
+user_interface()
