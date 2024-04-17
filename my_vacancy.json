@@ -9,6 +9,15 @@
         "alternate_url": "https://hh.ru/vacancy/95839402"
     },
     {
+        "name": "Site reliability engineer/devops",
+        "salary_from": 500000,
+        "salary_to": "",
+        "currency": "RUR",
+        "requirement": "Что нам хотелось бы видеть у кандидата из hard skills: Git, GitLab, GitLab-CI. Docker, docker-compose. AWS SDK (ec...",
+        "experience": "Более 6 лет",
+        "alternate_url": "https://hh.ru/vacancy/97160285"
+    },
+    {
         "name": "Java-разработчик (senior)",
         "salary_from": 450000,
         "salary_to": 500000,
@@ -16,15 +25,6 @@
         "requirement": "Потребность в саморазвитии и самосовершенствовании. Опыт работы с <highlighttext>SQL</highlighttext>. Опыт работы с k8s. Умение оценивать трудозатраты, необходимые для...",
         "experience": "От 3 до 6 лет",
         "alternate_url": "https://hh.ru/vacancy/95198193"
-    },
-    {
-        "name": "Системный аналитик Senior",
-        "salary_from": 400000,
-        "salary_to": 450000,
-        "currency": "RUR",
-        "requirement": "Опыт работы в качестве ведущего системного аналитика - от 3-х лет. Опыт проектирования интеграций (API и брокеры сообщений). Знание <highlighttext>SQL</highlighttext>. ",
-        "experience": "От 3 до 6 лет",
-        "alternate_url": "https://hh.ru/vacancy/94939123"
     },
     {
         "name": "QA Lead / Руководитель команды тестирования",
@@ -43,15 +43,6 @@
         "requirement": "Опыт работы с Python до 4 лет. Опыт работы с Docker. Глубокое понимание <highlighttext>SQL</highlighttext>. Умение писать и поддерживать тесты.",
         "experience": "От 3 до 6 лет",
         "alternate_url": "https://hh.ru/vacancy/96711383"
-    },
-    {
-        "name": "Разработчик С++",
-        "salary_from": 300000,
-        "salary_to": "",
-        "currency": "RUR",
-        "requirement": "знания ООП С++ и библиотеки STL/Boost. - знания в области многопоточных вычислений в Linux (libpthread, примитивы синхронизации). - знания в области...",
-        "experience": "От 1 года до 3 лет",
-        "alternate_url": "https://hh.ru/vacancy/96647339"
     },
     {
         "name": "Директор по IT",
@@ -162,6 +153,15 @@
         "alternate_url": "https://hh.ru/vacancy/95295815"
     },
     {
+        "name": "Python-разработчик",
+        "salary_from": 180000,
+        "salary_to": 230000,
+        "currency": "RUR",
+        "requirement": "Опыт работы с REST. Опыт работы с опыт работы с <highlighttext>SQL</highlighttext> и NoSQL (Postgresql, MySQL, Mongo, Clickhouse или другие). ",
+        "experience": "От 3 до 6 лет",
+        "alternate_url": "https://hh.ru/vacancy/96983102"
+    },
+    {
         "name": "Аналитик",
         "salary_from": 160000,
         "salary_to": "",
@@ -180,13 +180,13 @@
         "alternate_url": "https://hh.ru/vacancy/94538970"
     },
     {
-        "name": "Middle QA Engineer (удаленно)",
+        "name": "Frontend разработчик (React)",
         "salary_from": 150000,
-        "salary_to": 200000,
+        "salary_to": 250000,
         "currency": "RUR",
-        "requirement": "Опыт работы с <highlighttext>SQL</highlighttext>. Понимание работы rest api. Опыт тестирования мобильных приложений от 2 лет. Умение дебажить и находить причину...",
-        "experience": "От 3 до 6 лет",
-        "alternate_url": "https://hh.ru/vacancy/93924527"
+        "requirement": "Владение React, понимание концепций: Реактивность, Компонент/его жизненный цикл, Хуки, События, .... - Владение используемыми с React технологиями: NodeJs/npm, Redux/Mobx...",
+        "experience": "От 1 года до 3 лет",
+        "alternate_url": "https://hh.ru/vacancy/95124302"
     },
     {
         "name": "QA Engineer (Middle/Senior)",
@@ -198,13 +198,13 @@
         "alternate_url": "https://hh.ru/vacancy/96621030"
     },
     {
-        "name": "Frontend разработчик (React)",
+        "name": "React разработчик / Frontend разработчик",
         "salary_from": 150000,
         "salary_to": 250000,
         "currency": "RUR",
-        "requirement": "Владение React, понимание концепций: Реактивность, Компонент/его жизненный цикл, Хуки, События, .... - Владение используемыми с React технологиями: NodeJs/npm, Redux/Mobx...",
-        "experience": "От 1 года до 3 лет",
-        "alternate_url": "https://hh.ru/vacancy/95124302"
+        "requirement": "Redux/Redux Tool Kit. HTML, CSS, SCSS, LESS, SASS. Typescript. <highlighttext>SQL</highlighttext>. Опыт работы от 4 лет обязателен. Опыт работы в...",
+        "experience": "От 3 до 6 лет",
+        "alternate_url": "https://hh.ru/vacancy/96549602"
     },
     {
         "name": "Веб-разработчик (React, Angular)",
@@ -216,13 +216,13 @@
         "alternate_url": "https://hh.ru/vacancy/96728720"
     },
     {
-        "name": "React разработчик / Frontend разработчик",
+        "name": "Middle QA",
         "salary_from": 150000,
-        "salary_to": 250000,
+        "salary_to": "",
         "currency": "RUR",
-        "requirement": "Redux/Redux Tool Kit. HTML, CSS, SCSS, LESS, SASS. Typescript. <highlighttext>SQL</highlighttext>. Опыт работы от 4 лет обязателен. Опыт работы в...",
-        "experience": "От 3 до 6 лет",
-        "alternate_url": "https://hh.ru/vacancy/96549602"
+        "requirement": "Опыт ручного тестирования в командах, разрабатывающих коммерческие программные продукты от 1 года. Базовые знания <highlighttext>SQL</highlighttext>, опыт написания запросов. ",
+        "experience": "От 1 года до 3 лет",
+        "alternate_url": "https://hh.ru/vacancy/96067695"
     },
     {
         "name": "Тестировщик ручной",
@@ -234,15 +234,6 @@
         "alternate_url": "https://hh.ru/vacancy/95700445"
     },
     {
-        "name": "Middle QA",
-        "salary_from": 150000,
-        "salary_to": "",
-        "currency": "RUR",
-        "requirement": "Опыт ручного тестирования в командах, разрабатывающих коммерческие программные продукты от 1 года. Базовые знания <highlighttext>SQL</highlighttext>, опыт написания запросов. ",
-        "experience": "От 1 года до 3 лет",
-        "alternate_url": "https://hh.ru/vacancy/96067695"
-    },
-    {
         "name": "Системный администратор",
         "salary_from": 150000,
         "salary_to": "",
@@ -252,15 +243,6 @@
         "alternate_url": "https://hh.ru/vacancy/95276911"
     },
     {
-        "name": "Middle QA-инженер (ручное тестирование)",
-        "salary_from": 150000,
-        "salary_to": "",
-        "currency": "RUR",
-        "requirement": "Опыт тестирования web-приложений (frontend & backend). Опыт тестирования десктопных приложений. Знание <highlighttext>SQL</highlighttext>. Опыт работы с системами контроля версий. ",
-        "experience": "От 3 до 6 лет",
-        "alternate_url": "https://hh.ru/vacancy/95493724"
-    },
-    {
         "name": "Дата аналитик",
         "salary_from": 150000,
         "salary_to": "",
@@ -268,6 +250,15 @@
         "requirement": "Мы ищем специалиста, хорошо знакомого с тем как функционирует индустрия. Отличные прикладные знания <highlighttext>SQL</highlighttext> (оконные функции, джойны и т.д.). ",
         "experience": "От 1 года до 3 лет",
         "alternate_url": "https://hh.ru/vacancy/96829238"
+    },
+    {
+        "name": "Middle QA-инженер (ручное тестирование)",
+        "salary_from": 150000,
+        "salary_to": "",
+        "currency": "RUR",
+        "requirement": "Опыт тестирования web-приложений (frontend & backend). Опыт тестирования десктопных приложений. Знание <highlighttext>SQL</highlighttext>. Опыт работы с системами контроля версий. ",
+        "experience": "От 3 до 6 лет",
+        "alternate_url": "https://hh.ru/vacancy/95493724"
     },
     {
         "name": "QA Engineer",
@@ -306,6 +297,15 @@
         "alternate_url": "https://hh.ru/vacancy/96062109"
     },
     {
+        "name": "Тестировщик",
+        "salary_from": 120000,
+        "salary_to": "",
+        "currency": "RUR",
+        "requirement": "Внимательны к мелочам и поэтому в сопроводительном письме вы напишете слово \"ping\". Базовые знания <highlighttext>SQL</highlighttext> приветствуются. Опыт работы с docker...",
+        "experience": "От 1 года до 3 лет",
+        "alternate_url": "https://hh.ru/vacancy/96379597"
+    },
+    {
         "name": "Тестировщик ПО",
         "salary_from": 120000,
         "salary_to": 156000,
@@ -315,13 +315,13 @@
         "alternate_url": "https://hh.ru/vacancy/93981819"
     },
     {
-        "name": "Тестировщик",
-        "salary_from": 120000,
+        "name": "Frontend-разработчик",
+        "salary_from": 100000,
         "salary_to": "",
         "currency": "RUR",
-        "requirement": "Внимательны к мелочам и поэтому в сопроводительном письме вы напишете слово \"ping\". Базовые знания <highlighttext>SQL</highlighttext> приветствуются. Опыт работы с docker...",
+        "requirement": "Опыт работы с реляционными базами данных через консоль или административный интерфейс, понимание <highlighttext>SQL</highlighttext> (используем PostgressSQL). — Обязательное умение работать с Git. — ",
         "experience": "От 1 года до 3 лет",
-        "alternate_url": "https://hh.ru/vacancy/96379597"
+        "alternate_url": "https://hh.ru/vacancy/97217247"
     },
     {
         "name": "Python-разработчик / Junior Python Developer",
@@ -360,6 +360,15 @@
         "alternate_url": "https://hh.ru/vacancy/95155313"
     },
     {
+        "name": "Гейм-дизайнер",
+        "salary_from": 100000,
+        "salary_to": 200000,
+        "currency": "RUR",
+        "requirement": "...их формирование и управление ими. Инициативность в работе, самостоятельность, проактивность. Будет плюсом: Базовые навыки <highlighttext>SQL</highlighttext>/Python. Нацеленность на принятие решений.",
+        "experience": "От 1 года до 3 лет",
+        "alternate_url": "https://hh.ru/vacancy/96836094"
+    },
+    {
         "name": "C# developer junior / middle (.net, full-stack / back-end)",
         "salary_from": 100000,
         "salary_to": 280000,
@@ -385,15 +394,6 @@
         "requirement": "Уверенное владение GTM, Google Analytics, Яндекс.Метрика. Продвинутый навык работы с BI (хотя бы одной из: Google LookerStudio, MS Power BI...",
         "experience": "От 1 года до 3 лет",
         "alternate_url": "https://hh.ru/vacancy/97027832"
-    },
-    {
-        "name": "Программист-разработчик",
-        "salary_from": 100000,
-        "salary_to": 200000,
-        "currency": "RUR",
-        "requirement": "Опыт написания комплексную бизнес-логику с финансовыми расчетами Нужно будет писать на Postgres <highlighttext>SQL</highlighttext> хранимые процедуры, триггеры, оптимизации уметь всё...",
-        "experience": "От 1 года до 3 лет",
-        "alternate_url": "https://hh.ru/vacancy/96726313"
     },
     {
         "name": "Тестировщик",
@@ -486,6 +486,15 @@
         "alternate_url": "https://hh.ru/vacancy/96176972"
     },
     {
+        "name": "Golang Developer",
+        "salary_from": 70000,
+        "salary_to": 130000,
+        "currency": "RUR",
+        "requirement": "Опыт работы с Wireshark/mitmproxy. - Опыт работы с NoSQL (Redis, MongoDB) и <highlighttext>SQL</highlighttext> (MySQL/PostgreSQL). Мы также готовы рассмотреть кандидатов...",
+        "experience": "От 1 года до 3 лет",
+        "alternate_url": "https://hh.ru/vacancy/97223836"
+    },
+    {
         "name": "Project manager Junior",
         "salary_from": 60000,
         "salary_to": "",
@@ -558,6 +567,15 @@
         "alternate_url": "https://hh.ru/vacancy/96838329"
     },
     {
+        "name": "PHP-разработчик",
+        "salary_from": 50000,
+        "salary_to": 100000,
+        "currency": "RUR",
+        "requirement": "Знакомство с базами данных: понимание основ работы с реляционными базами данных и <highlighttext>SQL</highlighttext>. Понимание MVC (Model-View-Controller): Знание принципов...",
+        "experience": "Нет опыта",
+        "alternate_url": "https://hh.ru/vacancy/96283720"
+    },
+    {
         "name": "SQL-разработчик (Junior / Trainee)",
         "salary_from": 50000,
         "salary_to": "",
@@ -567,13 +585,13 @@
         "alternate_url": "https://hh.ru/vacancy/96697325"
     },
     {
-        "name": "PHP-разработчик",
+        "name": "Аналитик (junior)",
         "salary_from": 50000,
-        "salary_to": 100000,
+        "salary_to": "",
         "currency": "RUR",
-        "requirement": "Знакомство с базами данных: понимание основ работы с реляционными базами данных и <highlighttext>SQL</highlighttext>. Понимание MVC (Model-View-Controller): Знание принципов...",
+        "requirement": "Высшее или неполное высшее образование (математика/физика/информатика) - обязательно. Опыт работы с базами данных (особенно PostgreSQL) и Python – это плюс. ",
         "experience": "Нет опыта",
-        "alternate_url": "https://hh.ru/vacancy/96283720"
+        "alternate_url": "https://hh.ru/vacancy/96459955"
     },
     {
         "name": "Специалист службы поддержки пользователей (удалённо)",
@@ -585,13 +603,13 @@
         "alternate_url": "https://hh.ru/vacancy/97101056"
     },
     {
-        "name": "Аналитик (junior)",
+        "name": "Аналитик Excel (техническая поддержка)",
         "salary_from": 50000,
         "salary_to": "",
         "currency": "RUR",
-        "requirement": "Высшее или неполное высшее образование (математика/физика/информатика) - обязательно. Опыт работы с базами данных (особенно PostgreSQL) и Python – это плюс. ",
-        "experience": "Нет опыта",
-        "alternate_url": "https://hh.ru/vacancy/96459955"
+        "requirement": "Хорошее знание excel (сводные таблицы, ВПР, INDEX). Умение работать с большим объёмом данных в режиме многозадачности. Знания методов статистики и...",
+        "experience": "От 1 года до 3 лет",
+        "alternate_url": "https://hh.ru/vacancy/97147861"
     },
     {
         "name": "Младший разработчик .NET/C#",
@@ -610,15 +628,6 @@
         "requirement": "Владение языком C#. Опыт проектирования структуры базы данных, базовые знания <highlighttext>SQL</highlighttext>. Умение эффективно планировать рабочее время и расставлять приоритеты по...",
         "experience": "Нет опыта",
         "alternate_url": "https://hh.ru/vacancy/95867913"
-    },
-    {
-        "name": "Аналитик Excel (техническая поддержка)",
-        "salary_from": 50000,
-        "salary_to": "",
-        "currency": "RUR",
-        "requirement": "Хорошее знание excel (сводные таблицы, ВПР, INDEX). Умение работать с большим объёмом данных в режиме многозадачности. Знания методов статистики и...",
-        "experience": "От 1 года до 3 лет",
-        "alternate_url": "https://hh.ru/vacancy/97147861"
     },
     {
         "name": "Junior QA Engineer / Тестировщик ПО",
@@ -657,13 +666,13 @@
         "alternate_url": "https://hh.ru/vacancy/95450203"
     },
     {
-        "name": "Стажер Python/C# developer",
-        "salary_from": 35000,
-        "salary_to": 35000,
+        "name": "Тестировщик ПО",
+        "salary_from": 25000,
+        "salary_to": 25000,
         "currency": "RUR",
-        "requirement": "Понимание основ <highlighttext>SQL</highlighttext>, ООП, принципов тестирования. Опыт web-stack разработки (пет-проджект/курсовая на web-стеке). Способность составлять алгоритмы и...",
+        "requirement": "...видео-звонков и обсуждений. Любой опыт тестирования мобильных приложений, десктопных приложений и веб-сайтов. Любой опыт программирования. Опыт использования <highlighttext>SQL</highlighttext>.",
         "experience": "Нет опыта",
-        "alternate_url": "https://hh.ru/vacancy/94391819"
+        "alternate_url": "https://hh.ru/vacancy/97157956"
     },
     {
         "name": "Младший backend-разработчик",
@@ -706,9 +715,18 @@
         "salary_from": 3000,
         "salary_to": 5000,
         "currency": "USD",
-        "requirement": "Опыт работы с Python и Jupyter, а также базовое знание методов машинного обучения с использованием <highlighttext>SQL</highlighttext>. Умение проводить быстрый предварительный...",
+        "requirement": "Профессиональный опыт в области маркетингового или продуктового анализа в сфере online B2C. Глубокое знание статистики и опыт использования...",
         "experience": "От 3 до 6 лет",
         "alternate_url": "https://hh.ru/vacancy/97041429"
+    },
+    {
+        "name": "Тестировщик web (ручное тестирование)",
+        "salary_from": 800,
+        "salary_to": 1000,
+        "currency": "USD",
+        "requirement": "понимание основ юзабилити. — опыт в организации и проведении регрессивного тестирования. — умение создавать план тестирования и вести тест кейсы. ",
+        "experience": "От 1 года до 3 лет",
+        "alternate_url": "https://hh.ru/vacancy/96465153"
     },
     {
         "name": "Junior+ Java developer (back-end)",
@@ -720,15 +738,6 @@
         "alternate_url": "https://hh.ru/vacancy/97022344"
     },
     {
-        "name": "Руководитель направления развития систем ДБО",
-        "salary_from": 0,
-        "salary_to": 200000,
-        "currency": "RUR",
-        "requirement": "Опыт самостоятельного технического внедрения новых сервисов ДБО. Умение детально анализировать логи на предмет определения причин возникновения багов или некорректного поведения...",
-        "experience": "От 3 до 6 лет",
-        "alternate_url": "https://hh.ru/vacancy/76453669"
-    },
-    {
         "name": "Manual QA Engineer (Middle)",
         "salary_from": 0,
         "salary_to": 180000,
@@ -738,13 +747,13 @@
         "alternate_url": "https://hh.ru/vacancy/97147951"
     },
     {
-        "name": "Разработчик-аналитик Python Oracle",
+        "name": "Руководитель направления развития систем ДБО",
         "salary_from": 0,
-        "salary_to": 250000,
+        "salary_to": 200000,
         "currency": "RUR",
-        "requirement": "Опыт управления техническими командами. Опыт работы с Оracle. Знание и практика Agile будет плюсом.",
+        "requirement": "Опыт самостоятельного технического внедрения новых сервисов ДБО. Умение детально анализировать логи на предмет определения причин возникновения багов или некорректного поведения...",
         "experience": "От 3 до 6 лет",
-        "alternate_url": "https://hh.ru/vacancy/95471014"
+        "alternate_url": "https://hh.ru/vacancy/76453669"
     },
     {
         "name": "Тестировщик",
@@ -754,6 +763,15 @@
         "requirement": "Выбирать методы и инструменты тестирования. Есть опыт тестирования Web-приложений и АPI. Хорошо знаешь и понимаешь техники тест-дизайна.",
         "experience": "От 3 до 6 лет",
         "alternate_url": "https://hh.ru/vacancy/97143427"
+    },
+    {
+        "name": "Разработчик-аналитик Python Oracle",
+        "salary_from": 0,
+        "salary_to": 250000,
+        "currency": "RUR",
+        "requirement": "Опыт управления техническими командами. Опыт работы с Оracle. Знание и практика Agile будет плюсом.",
+        "experience": "От 3 до 6 лет",
+        "alternate_url": "https://hh.ru/vacancy/95471014"
     },
     {
         "name": "Стажёр по направлению \"QA\" от SBERSEASONS",
@@ -774,15 +792,6 @@
         "alternate_url": "https://hh.ru/vacancy/97102324"
     },
     {
-        "name": "Тестировщик ПО",
-        "salary_from": 0,
-        "salary_to": 400000,
-        "currency": "RUR",
-        "requirement": "Отличное понимание HTTP, REST, JSON, <highlighttext>SQL</highlighttext>, наличие опыта работы с перечисленным. Знакомство с регулярными выражениями и принципами UI/UX. ",
-        "experience": "От 3 до 6 лет",
-        "alternate_url": "https://hh.ru/vacancy/92976273"
-    },
-    {
         "name": "QA Automation Engineer",
         "salary_from": 0,
         "salary_to": 350000,
@@ -794,20 +803,20 @@
     {
         "name": "Тестировщик ПО",
         "salary_from": 0,
+        "salary_to": 400000,
+        "currency": "RUR",
+        "requirement": "Отличное понимание HTTP, REST, JSON, <highlighttext>SQL</highlighttext>, наличие опыта работы с перечисленным. Знакомство с регулярными выражениями и принципами UI/UX. ",
+        "experience": "От 3 до 6 лет",
+        "alternate_url": "https://hh.ru/vacancy/92976273"
+    },
+    {
+        "name": "Тестировщик ПО",
+        "salary_from": 0,
         "salary_to": 150000,
         "currency": "RUR",
         "requirement": "Уверенное владение Postman/ Insomnia. Понимание микросервисной архитектуры. Опыт работы с PostgreSQL, <highlighttext>SQL</highlighttext>. Опыт работы с Jira. Умение читать и анализировать...",
         "experience": "От 3 до 6 лет",
         "alternate_url": "https://hh.ru/vacancy/97189848"
-    },
-    {
-        "name": "Python разработчик",
-        "salary_from": 0,
-        "salary_to": 210000,
-        "currency": "RUR",
-        "requirement": "Знаешь и понимаешь принципы работы реляционных БД, языка <highlighttext>SQL</highlighttext>. Возможно, имеешь опыт работы с numpy/pandas. Возможно, имеешь опыт работы...",
-        "experience": "От 3 до 6 лет",
-        "alternate_url": "https://hh.ru/vacancy/96738702"
     },
     {
         "name": "Data Science",
@@ -819,13 +828,13 @@
         "alternate_url": "https://hh.ru/vacancy/96435695"
     },
     {
-        "name": "Senior SDET",
+        "name": "Python разработчик",
         "salary_from": 0,
-        "salary_to": 520000,
+        "salary_to": 210000,
         "currency": "RUR",
-        "requirement": "Отличное знание JAVA, Selenium. Знание REST API, JUnit 5, Maven, <highlighttext>SQL</highlighttext>, Docker. Опыт работы с Gatling, GitlabCI/CD - как плюс. ",
+        "requirement": "Знаешь и понимаешь принципы работы реляционных БД, языка <highlighttext>SQL</highlighttext>. Возможно, имеешь опыт работы с numpy/pandas. Возможно, имеешь опыт работы...",
         "experience": "От 3 до 6 лет",
-        "alternate_url": "https://hh.ru/vacancy/96708616"
+        "alternate_url": "https://hh.ru/vacancy/96738702"
     },
     {
         "name": "Python-разработчик (Django, FastAPI)",
@@ -837,6 +846,33 @@
         "alternate_url": "https://hh.ru/vacancy/95795220"
     },
     {
+        "name": "Senior SDET",
+        "salary_from": 0,
+        "salary_to": 520000,
+        "currency": "RUR",
+        "requirement": "Отличное знание JAVA, Selenium. Знание REST API, JUnit 5, Maven, <highlighttext>SQL</highlighttext>, Docker. Опыт работы с Gatling, GitlabCI/CD - как плюс. ",
+        "experience": "От 3 до 6 лет",
+        "alternate_url": "https://hh.ru/vacancy/96708616"
+    },
+    {
+        "name": "Аналитик Excel",
+        "salary_from": 0,
+        "salary_to": 200000,
+        "currency": "RUR",
+        "requirement": "Уверенное знание Excel. <highlighttext>SQL</highlighttext> (подзапросы, аналитические функции, оптимизация запросов). Опыт работы с BI системами. Релевантный опыт работы от 1 года.",
+        "experience": "От 3 до 6 лет",
+        "alternate_url": "https://hh.ru/vacancy/96687252"
+    },
+    {
+        "name": "QA LEAD (manual) / Ведущий специалист по ручному тестированию",
+        "salary_from": 0,
+        "salary_to": 250000,
+        "currency": "RUR",
+        "requirement": "Самоходный специалист. Считаете свою работу своим главным местом самореализации, успех команды и компании считаете своим успехом, а провалы — своими провалами. ",
+        "experience": "От 3 до 6 лет",
+        "alternate_url": "https://hh.ru/vacancy/96943740"
+    },
+    {
         "name": "Бизнес-аналитик",
         "salary_from": 0,
         "salary_to": 3000,
@@ -844,42 +880,6 @@
         "requirement": "Знание инструментов бизнес-анализа, таких как BPMN, UML и проч.. Опыт работы с <highlighttext>SQL</highlighttext> запросами и таблицами. Высокие аналитические способности...",
         "experience": "От 1 года до 3 лет",
         "alternate_url": "https://hh.ru/vacancy/96985789"
-    },
-    {
-        "name": "QA / Тестировщик (Удаленка)",
-        "salary_from": 0,
-        "salary_to": 115000,
-        "currency": "RUR",
-        "requirement": "Понимание принципов тестирования программного обеспечения: функционального, интеграционного. Опыт работы с <highlighttext>SQL</highlighttext>-запросами к БД. Опыт тестирования REST API и web...",
-        "experience": "От 1 года до 3 лет",
-        "alternate_url": "https://hh.ru/vacancy/95226815"
-    },
-    {
-        "name": "Стажёр по направлению \"Системный анализ\" от SBERSEASONS",
-        "salary_from": 0,
-        "salary_to": 63600,
-        "currency": "RUR",
-        "requirement": "Необходимые навыки: — развитое аналитическое мышление. — знание системного анализа. — понимание архитектуры IT-процессов. Преимуществом будет владение: — <highlighttext>SQL</highlighttext>. — XML.",
-        "experience": "Нет опыта",
-        "alternate_url": "https://hh.ru/vacancy/96220947"
-    },
-    {
-        "name": "Python\\SQL Developer",
-        "salary_from": 0,
-        "salary_to": 70000,
-        "currency": "RUR",
-        "requirement": "...частности с <highlighttext>SQL</highlighttext>. Навыки оптимизации запросов и схем данных. Опыт разработки дашбордов на любом промышленном BI. Знание <highlighttext>SQL</highlighttext> на уровне...",
-        "experience": "От 1 года до 3 лет",
-        "alternate_url": "https://hh.ru/vacancy/96101718"
-    },
-    {
-        "name": "Тестировщик / QA",
-        "salary_from": 0,
-        "salary_to": 214000,
-        "currency": "RUR",
-        "requirement": "Технический английский. Опыт тестирования web-приложений. Опыт работы с <highlighttext>SQL</highlighttext> базами данных. Опыт нагрузочного тестирования(Jmeter). Опыт работы с ffmpeg.",
-        "experience": "От 3 до 6 лет",
-        "alternate_url": "https://hh.ru/vacancy/93947842"
     },
     {
         "name": "Инженер по тестированию (Senior QA manual)",
@@ -891,12 +891,12 @@
         "alternate_url": "https://hh.ru/vacancy/95816534"
     },
     {
-        "name": "Аналитик Excel",
+        "name": "Стажёр по направлению \"Системный анализ\" от SBERSEASONS",
         "salary_from": 0,
-        "salary_to": 200000,
+        "salary_to": 63600,
         "currency": "RUR",
-        "requirement": "Уверенное знание Excel. <highlighttext>SQL</highlighttext> (подзапросы, аналитические функции, оптимизация запросов). Опыт работы с BI системами. Релевантный опыт работы от 1 года.",
-        "experience": "От 3 до 6 лет",
-        "alternate_url": "https://hh.ru/vacancy/96687252"
+        "requirement": "Необходимые навыки: — развитое аналитическое мышление. — знание системного анализа. — понимание архитектуры IT-процессов. Преимуществом будет владение: — <highlighttext>SQL</highlighttext>. — XML.",
+        "experience": "Нет опыта",
+        "alternate_url": "https://hh.ru/vacancy/96220947"
     }
 ]
